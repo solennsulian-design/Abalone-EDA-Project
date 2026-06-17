@@ -15,7 +15,6 @@ Predict the age of abalones (number of rings) from physical measurements to avoi
 ## Project Files
 - [Abalone_EDA.ipynb](Abalone_EDA.ipynb) - Main notebook with analysis
 - [PRESENTATION.md](PRESENTATION.md) - Project summary
-- [flowchart.png](flowchart.png) - Process diagram (optional)
 
 ## How to Run
 1. Open [Abalone_EDA.ipynb](Abalone_EDA.ipynb) in [Google Colab](https://colab.research.google.com/).
